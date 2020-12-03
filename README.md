@@ -32,19 +32,18 @@ Its just a little Python script
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/iion91/mandelbrot.git
    ```
    or download the files 
-3. Install dependencies
+2. Install dependencies
    ```sh
    pip install numba
    pip install numpy
    pip install matplotlib
    ```
-4. Start the script 
+3. Start the script 
    Enter your the path and type
    ```cmd
    python mandelbrot.py
