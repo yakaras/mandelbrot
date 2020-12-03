@@ -27,8 +27,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://ara-systems.net)
 
-Its just a little Python script
-
 
 ### Installation
 
@@ -36,7 +34,7 @@ Its just a little Python script
    ```sh
    git clone https://github.com/iion91/mandelbrot.git
    ```
-   or download the files 
+   or download the file
 2. Install dependencies
    ```sh
    pip install numba
