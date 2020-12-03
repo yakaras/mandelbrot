@@ -52,7 +52,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/iion91) - https://www.ara-systems.net
+Johann Uhl - [@iion91](https://twitter.com/iion91) - https://www.ara-systems.net
 
 GitHub Link: [https://github.com/iion91](https://github.com/iion91)
 
