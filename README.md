@@ -139,13 +139,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 [product-screenshot]: images/screenshot.png
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/iion91/mandelbrot.svg?style=for-the-badge
 [contributors-url]: https://github.com/iion91/mandelbrot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/iion91/mandelbrot.svg?style=for-the-badge
 [forks-url]: https://github.com/iion91/mandelbrot/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/iion91/mandelbrot.svg?style=for-the-badge
 [stars-url]: https://github.com/iion91/mandelbrot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/iion91/mandelbrot.svg?style=for-the-badge
 [issues-url]:  https://github.com/iion91/mandelbrot/issues
-#[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/iion91/mandelbrot.svg?style=for-the-badge
 [license-url]:  https://github.com/iion91/mandelbrot/blob/master/LICENSE.txt
