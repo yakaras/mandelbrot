@@ -4,7 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -148,5 +147,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [stars-url]: https://github.com/iion91/mandelbrot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]:  https://github.com/iion91/mandelbrot/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+#[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]:  https://github.com/iion91/mandelbrot/blob/master/LICENSE.txt
