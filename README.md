@@ -41,7 +41,7 @@
    pip install numpy
    pip install matplotlib
    ```
-3. Start the script 
+3. Start the script \n
    Enter your the path and type
    ```cmd
    python mandelbrot.py
