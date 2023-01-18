@@ -28,7 +28,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://ara-systems.net)
 
 
-### Installation
+### Run
 
 1. Clone the repo
    ```sh
