@@ -29,7 +29,7 @@
 
 The mandelbrot function takes in a real and imaginary part of a complex number c, as well as a maximum number of iterations to perform. It then iteratively computes the sequence $z_{n+1} = z_{n}^2 + c$, where $z_0 = 0$, until either the sequence diverges (i.e., $|z_n|$ exceeds $2$) or the maximum number of iterations is reached. It returns the number of iterations before the sequence diverges, or the maximum number of iterations if the sequence does not diverge.
 
-The main code sets the size of the image (`columns` and rows) and creates an array result to store the iteration counts for each point in the complex plane. It then loops over each point in the plane, calls the mandelbrot function to compute the iteration count for that point, and stores the result in the result array. Finally, it generates an image of the result array using the imshow function from matplotlib.
+The main code sets the size of the image (`columns` and `rows`) and creates an array `result` to store the iteration counts for each point in the complex plane. It then loops over each point in the plane, calls the `mandelbrot` function to compute the iteration count for that point, and stores the `result` in the result array. Finally, it generates an image of the result array using the `imshow` function from matplotlib.
 ### Run
 
 1. Clone the repo
